@@ -17,4 +17,7 @@ hist(Global_active_power,
      breaks = 12, ylim = c(0, 1200))
 ## Close Graphics Device
 dev.off()
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master

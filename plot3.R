@@ -20,4 +20,8 @@ legend("topright",
        c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"),
        lwd = 1)
 ## Close Graphics Device
+<<<<<<< HEAD
 dev.off()
+=======
+dev.off()
+>>>>>>> origin/master
